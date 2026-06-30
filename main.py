@@ -10,7 +10,7 @@ class RelojDigital(QWidget):
         super().__init__()
 
         #Configuración de la ventana
-        self.setWindowTitle("Reloj Digital vía Wifi hihihi")
+        self.setWindowTitle("Reloj Digital ")
         self.setGeometry(100,100,400,200)
         self.setStyleSheet("background-color: #121212;")
 

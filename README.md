@@ -1,4 +1,4 @@
-#  Reloj Digital vía Wifi hihihi
+#  Reloj Digital 
 
 Un reloj digital moderno de escritorio con visualización de fecha en tiempo real. Este proyecto fue desarrollado para profundizar en la lógica de interfaces gráficas.
 
